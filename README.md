@@ -9,6 +9,14 @@ Background
 Nowsaday, people love to try new things that are creative and innovative. The aim of this project is to give youngsters and KOL in the society to get in touch with others by creating functions that are fun and attractive as well as improving existing functions that current social media have.
 That is why we develop a smart mobile app to help KOL to promote themselves.
 
+Technology
+-------
+This project is based on react native.
+
+Requirnments
+-------
+NodeJs(10.13<>11.0.0)
+
 
 App Photo
 -------
